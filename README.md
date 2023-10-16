@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kummarirajarajesjwari
+- 👋 Hi, I’m @kummarirajarajeshwari
 - 👀 I’m interested in Web Development...
 - 🌱 I’m currently learning Html,Css, Java script..
 - 📫 How to reach me kummarirajarajeshwari@gmail.com
